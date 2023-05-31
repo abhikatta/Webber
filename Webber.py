@@ -29,5 +29,5 @@ def take_command( SysTrayIcon):
 
     
 menu_options = ((("Take Command"),None,take_command),)
-sysTrayIcon = SysTrayIcon("boticon.ico", "Bot",menu_options)
+sysTrayIcon = SysTrayIcon("Webber.ico", "Webber",menu_options)
 sysTrayIcon.start()

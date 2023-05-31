@@ -2,3 +2,6 @@ backend.py
 chadBad.py
 .vscode
 __py_cache__
+build
+dist
+*.spec
