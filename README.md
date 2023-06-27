@@ -13,6 +13,11 @@
 pyinstaller Webber.py --noconsole --add-data './Webber.ico;.' 
 
 ```
+### Optional:
+4. Make any changes if you want to the `Webber.spec` file and run
+   ```
+   pyinstaller Webber.spec
+   ```
 That's it!
 
 ### Bonus: If you want to open webber on system sign-in, you can add it to start-up apps by following below steps:
