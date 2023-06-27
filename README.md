@@ -28,3 +28,5 @@ That's it!
    ```
 3. Add `Webber.exe` to `path/to/startup/folder`.
    And you're done!
+
+## Check out [infi.systray](https://pypi.org/project/infi.systray/) for more info/customization.
