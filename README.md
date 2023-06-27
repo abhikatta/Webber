@@ -1,5 +1,5 @@
 # Webber
-### a simple voice system tray assistant app that takes voice input and searches on the default browser.
+### a simple system tray voice assistant app that takes voice input and searches on the default browser.
 ![image](https://github.com/abhikatta/Webber/assets/76813100/25ee8111-154a-4dc0-8ede-c7c862de6cd9)
 
 
