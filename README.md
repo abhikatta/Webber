@@ -13,8 +13,7 @@
 pyinstaller Webber.py --noconsole --add-data './Webber.ico;.' 
 
 ```
-### Optional:
-4. Make any changes if you want to the `Webber.spec` file and run
+4. [Optional] Make any changes if you want to the `Webber.spec` file and run
    ```
    pyinstaller Webber.spec
    ```
