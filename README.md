@@ -7,10 +7,10 @@
 
 ## Compilation:
 1. Open Terminal.
-2. Change to project directory.
+2. Change current directory to project directory.
 3. Run command:
 ```
-pyinstaller Webber.py --noconsole --datas=[('Webber.ico','./')] 
+pyinstaller Webber.py --noconsole --add-data './Webber.ico;.' 
 
 ```
 That's it!
