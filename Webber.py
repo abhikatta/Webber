@@ -17,6 +17,9 @@ def take_command( SysTrayIcon):
         audio = r.listen(source)
         try:
             statement = r.recognize_google(audio, language='en-in')
+            if statement=='shutdown':
+                import os
+                os.system('shutdown /s')
             speak(engine=engine,text=f'You said: {statement}')
             webbrowser.open(statement)
         except sr.UnknownValueError:
