@@ -1,5 +1,6 @@
 # Webber
 ### a simple system tray voice assistant app that takes voice input and searches on the default browser.
+### Click [here](https://github.com/abhikatta/Webber/releases/download/proto1/Webber.zip) to download app.
 ![image](https://github.com/abhikatta/Webber/assets/76813100/25ee8111-154a-4dc0-8ede-c7c862de6cd9)
 
 
@@ -30,4 +31,3 @@ That's it!
    And you're done!
 
 ## Check out [infi.systray](https://pypi.org/project/infi.systray/) for more info/customization.
-## Click [here](https://github.com/abhikatta/Webber/releases/download/proto1/Webber.zip) to download app.
