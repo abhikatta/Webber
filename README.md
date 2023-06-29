@@ -30,3 +30,4 @@ That's it!
    And you're done!
 
 ## Check out [infi.systray](https://pypi.org/project/infi.systray/) for more info/customization.
+## Click [here](https://github.com/abhikatta/Webber/releases/download/proto1/Webber.zip) to download app.
