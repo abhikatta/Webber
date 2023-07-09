@@ -30,3 +30,5 @@ That's it!
    And you're done!
 
 ## Check out [infi.systray](https://pypi.org/project/infi.systray/) for more info/customization.
+
+## Hands-free version still in dev
